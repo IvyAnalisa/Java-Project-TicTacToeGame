@@ -8,7 +8,7 @@
 -  Restart functionality: After a win or draw, the game resets and asks for player names to start a new match.
 - Input validation: Ensures players cannot place markers in already occupied cells
 ### Project Structure
- Classes
+ #### Classes
 1.Player:
 - Represents a player with a name and a marker (X or O).
 - Methods to retrieve the player's name and marker.
