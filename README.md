@@ -25,3 +25,14 @@
 + Win: Declares the player as the winner.
 + Draw: Declares the game as a draw if the board is full.
 - After the game ends (win or draw), the game resets and allows players to start a new match.
+### How to run the project:
+#### Step 1: Clone the Repository:
+git clone https://github.com/IvyAnalisa/Java-Project-TicTacToeGame.git
+#### Step 2: Navigate to the Project Folder
+- cd Java-Project-TicTacToeGame
+#### Step 3: Compile the Java Files
+- cd src
+- javac GameBoard.java Player.java main.java
+#### Step 4: Run the game:
+- java main
+
